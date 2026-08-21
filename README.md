@@ -1,14 +1,23 @@
-# 👋 Hi, I'm Prince Gound
+<h1 align="center">Hi 👋, I'm Prince Gound</h1>
 
-### Full-Stack Developer | MERN Stack | JavaScript
+<h3 align="center">Full-Stack Developer | MERN Stack | JavaScript</h3>
 
-I’m a **Full-Stack Developer** passionate about building real-world web applications and solving practical problems through technology.
-
-I enjoy working across the frontend and backend, designing APIs, working with databases, and turning ideas into functional products.
+<p align="center">
+  <a href="https://github.com/GoundPrincek">
+    <img src="https://img.shields.io/badge/GitHub-GoundPrincek-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/goundprincek/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
+
+I’m a **Full-Stack Developer** passionate about building real-world web applications and solving practical problems through technology.
+
+I enjoy working across the frontend and backend, designing APIs, working with databases, and turning ideas into functional products.
 
 * Full-Stack Developer focused on the **MERN Stack**
 * Building real-world projects and hackathon solutions
@@ -25,38 +34,38 @@ I enjoy working across the frontend and backend, designing APIs, working with da
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,jenkins" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### TrackIt
+### 🔹 TrackIt
 
 **Personal Finance & Productivity Platform**
 
@@ -79,7 +88,7 @@ TrackIt is a full-stack application designed to help users manage their finances
 
 ---
 
-### SOS Setu
+### 🔹 SOS Setu
 
 **Offline Disaster Communication Network**
 
@@ -98,7 +107,7 @@ An emergency communication concept designed to enable communication when traditi
 
 ---
 
-### DrishyaManch
+### 🔹 DrishyaManch
 
 A full-stack web application developed to strengthen practical experience in frontend development, backend APIs, database integration, and application architecture.
 
@@ -144,11 +153,8 @@ System Design
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -156,9 +162,7 @@ System Design
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=GoundPrincek&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=GoundPrincek&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -166,25 +170,21 @@ System Design
 ## 🤝 Connect With Me
 
 <p>
+  <a href="https://github.com/GoundPrincek">
+    <img src="https://img.shields.io/badge/GitHub-GoundPrincek-181717?style=for-the-badge&logo=github"/>
+  </a>
 
-<a href="https://github.com/GoundPrincek">
-<img src="https://img.shields.io/badge/GitHub-GoundPrincek-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/goundprincek/">
-<img src="https://img.shields.io/badge/LinkedIn-Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/goundprincek/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-### Building real projects. Learning continuously. Growing every day.
-
+  <b>Building real projects. Learning continuously. Growing every day.</b>
 </p>
 
 <p align="center">
-⭐ If you find my projects useful, consider giving them a star.
+  ⭐ If you find my projects useful, consider giving them a star.
 </p>
