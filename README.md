@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Princek
+# 👋 Hi, I'm Prince
 
 ### 💻 Full Stack Developer | MERN Stack | JavaScript
 
