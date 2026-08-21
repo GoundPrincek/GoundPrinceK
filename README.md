@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Prince Gound</h1>
+# Hi, I'm Prince Gound
 
-<h3 align="center">Full-Stack Developer | MERN Stack | JavaScript</h3>
+### Full-Stack Developer | MERN Stack | JavaScript
 
 <p align="center">
   <a href="https://github.com/GoundPrincek">
@@ -11,18 +11,14 @@
   </a>
 </p>
 
-<p align="center">
-  Building real projects • Learning continuously • Growing every day
-</p>
-
 ---
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
-
-## 👨‍💻 About Me
+<td width="65%" valign="top">
 
 I’m a **Full-Stack Developer** passionate about building real-world web applications and solving practical problems through technology.
 
@@ -38,9 +34,9 @@ I enjoy working across the frontend and backend, designing APIs, working with da
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 ```text
 Advanced JavaScript
@@ -56,21 +52,6 @@ Docker & CI/CD
 System Design
 ```
 
-## 🎯 2026 Goals
-
-* [x] Learn JavaScript Fundamentals
-* [x] Learn React
-* [x] Learn Node.js & Express.js
-* [x] Learn MongoDB
-* [x] Build Full-Stack Projects
-* [ ] Master TypeScript
-* [ ] Strengthen DSA
-* [ ] Learn Docker
-* [ ] Build CI/CD Pipelines
-* [ ] Learn System Design
-* [ ] Build more production-ready applications
-* [ ] Contribute to Open Source
-
 </td>
 
 </tr>
@@ -78,7 +59,7 @@ System Design
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -126,16 +107,16 @@ System Design
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 💰 TrackIt
+### 🔹 TrackIt
 
-### Personal Finance & Productivity Platform
+**Personal Finance & Productivity Platform**
 
 TrackIt is a full-stack application designed to help users manage their finances and daily productivity from one platform.
 
@@ -150,23 +131,18 @@ TrackIt is a full-stack application designed to help users manage their finances
 * REST APIs
 * MongoDB data management
 
-**Tech Stack**
+**Tech Stack:**
+React · Node.js · Express.js · MongoDB · Mongoose · JWT
 
-`React` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT`
-
-<br>
-
-<a href="https://github.com/GoundPrincek/Track_It">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+ [**View Project**](https://github.com/GoundPrincek/Track_It)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚨 SOS Setu
+### 🔹 SOS Setu
 
-### Offline Disaster Communication Network
+**Offline Disaster Communication Network**
 
 An emergency communication concept designed to enable communication when traditional internet connectivity is unavailable.
 
@@ -179,9 +155,8 @@ An emergency communication concept designed to enable communication when traditi
 * Peer-to-peer communication
 * AI-assisted message prioritization
 
-**Focus**
-
-`Networking` · `Distributed Systems` · `Emergency Communication`
+**Focus:**
+Networking · Distributed Systems · Emergency Communication
 
 </td>
 
@@ -191,21 +166,20 @@ An emergency communication concept designed to enable communication when traditi
 
 <td width="50%" valign="top">
 
-## 🎭 DrishyaManch
+### 🔹 DrishyaManch
 
 A full-stack web application developed to strengthen practical experience in frontend development, backend APIs, database integration, and application architecture.
 
-**Tech Stack**
-
-`React` · `Node.js` · `Express.js` · `MongoDB`
+**Tech Stack:**
+React · Node.js · Express.js · MongoDB
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💡 More Projects
+### 🚀 More Coming Soon
 
-Building and experimenting with real-world applications, hackathon solutions, backend systems, and practical software engineering projects.
+Continuously building and experimenting with real-world applications, hackathon solutions, backend systems, and software engineering projects.
 
 </td>
 
@@ -214,55 +188,80 @@ Building and experimenting with real-world applications, hackathon solutions, ba
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=GoundPrincek&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
+## 🎯 2026 Goals
 
 <table>
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-### GitHub
-
-<a href="https://github.com/GoundPrincek">
-<img src="https://img.shields.io/badge/GoundPrincek-181717?style=for-the-badge&logo=github"/>
-</a>
+* [x] Learn JavaScript Fundamentals
+* [x] Learn React
+* [x] Learn Node.js & Express.js
+* [x] Learn MongoDB
+* [x] Build Full-Stack Projects
+* [ ] Master TypeScript
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-### LinkedIn
-
-<a href="https://www.linkedin.com/in/goundprincek/">
-<img src="https://img.shields.io/badge/Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+* [ ] Strengthen DSA
+* [ ] Learn Docker
+* [ ] Build CI/CD Pipelines
+* [ ] Learn System Design
+* [ ] Build more production-ready applications
+* [ ] Contribute to Open Source
 
 </td>
 
 </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Prince Gound GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true"
+    alt="Prince Gound GitHub Streak"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/GoundPrincek">
+<img src="https://img.shields.io/badge/GitHub-GoundPrincek-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/goundprincek/">
+<img src="https://img.shields.io/badge/LinkedIn-Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
@@ -270,6 +269,6 @@ Building and experimenting with real-world applications, hackathon solutions, ba
 
 ### Building real projects. Learning continuously. Growing every day.
 
-⭐ If you find my projects useful, consider giving them a star.
+⭐⭐ If you find my projects useful, consider giving them a star.
 
 </p>
