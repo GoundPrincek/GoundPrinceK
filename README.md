@@ -1,88 +1,190 @@
-# 👋 Hi, I'm Prince
+# 👋 Hi, I'm Prince Gound
 
-### 💻 Full Stack Developer | MERN Stack | JavaScript
+### Full-Stack Developer | MERN Stack | JavaScript
 
-I build full-stack web applications focused on solving real-world problems.
+I’m a **Full-Stack Developer** passionate about building real-world web applications and solving practical problems through technology.
 
-Currently working with **React, Node.js, Express.js and MongoDB**, while improving my skills in **TypeScript, DSA, testing, Docker and CI/CD**.
+I enjoy working across the frontend and backend, designing APIs, working with databases, and turning ideas into functional products.
 
 ---
 
-## 🚀 What I'm Building
+## 👨‍💻 About Me
 
-* **TrackIt** — Finance + Productivity Platform
-* **SOS Setu** — Offline Emergency Communication System
-* **DrishyaManch** — Video Sharing Platform
+* Full-Stack Developer focused on the **MERN Stack**
+* Building real-world projects and hackathon solutions
+* Interested in **Backend Development, System Design & Software Engineering**
+* Currently learning **TypeScript, DSA, Docker & CI/CD**
+* Interested in secure and scalable application development
+* Goal: Become a strong **Software Engineer**
+* Always learning and improving through projects
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+</p>
+
 ### Frontend
 
-`HTML` `CSS` `JavaScript` `React` `Vite` `Tailwind CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
 
 ### Backend
 
-`Node.js` `Express.js` `REST APIs` `JWT`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-`MongoDB` `Mongoose`
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools & DevOps
 
-`Git` `GitHub` `Postman` `Docker` `VS Code`
-
-### 📚 Currently Learning
-
-`TypeScript` `DSA` `Testing` `CI/CD` `System Design`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,jenkins" />
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 ### TrackIt
 
-A full-stack finance and productivity platform combining expense tracking, salary planning, budgeting, goals, todos, notifications and analytics.
+**Personal Finance & Productivity Platform**
 
-**Tech:** React • Node.js • Express • MongoDB • JWT • Tailwind
+TrackIt is a full-stack application designed to help users manage their finances and daily productivity from one platform.
+
+**Features**
+
+* Expense tracking
+* Income & salary management
+* Financial goals
+* Task management
+* Notifications
+* Authentication & authorization
+* REST APIs
+* MongoDB data management
+
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Mongoose · JWT
+
+🔗 **[View Project](https://github.com/GoundPrincek/Track_It)**
+
+---
 
 ### SOS Setu
 
-An offline-first emergency communication platform designed to help relay SOS information when conventional network connectivity is unavailable.
+**Offline Disaster Communication Network**
 
-**Tech:** TypeScript • Node.js • Express • MongoDB • React Native • SQLite • Docker
+An emergency communication concept designed to enable communication when traditional internet connectivity is unavailable.
+
+**Key Concepts**
+
+* Bluetooth communication
+* Wi-Fi Direct
+* Offline messaging
+* Emergency message prioritization
+* Peer-to-peer communication
+* AI-assisted message prioritization
+
+**Focus:** Networking · Distributed Systems · Emergency Communication
+
+---
 
 ### DrishyaManch
 
-A video-sharing platform focused on creators, viewers and community interaction.
+A full-stack web application developed to strengthen practical experience in frontend development, backend APIs, database integration, and application architecture.
 
-**Tech:** React • Node.js • Express • MongoDB • Mongoose • JWT
-
----
-
-## 🎯 Current Focus
-
-* Full Stack Development
-* Data Structures & Algorithms
-* Docker & CI/CD
-* Backend Testing
-* TypeScript
-* System Design
-* Open Source
+**Tech Stack:** React · Node.js · Express.js · MongoDB
 
 ---
 
-## 📊 GitHub Activity
+## 📚 Currently Learning
 
-I use GitHub to document my learning, build projects and improve my development workflow through consistent practice.
+```text
+Advanced JavaScript
+       ↓
+TypeScript
+       ↓
+Data Structures & Algorithms
+       ↓
+Backend Development
+       ↓
+Docker & CI/CD
+       ↓
+System Design
+```
+
+---
+
+## 🎯 2026 Goals
+
+* [x] Learn JavaScript Fundamentals
+* [x] Learn React
+* [x] Learn Node.js & Express.js
+* [x] Learn MongoDB
+* [x] Build Full-Stack Projects
+* [ ] Master TypeScript
+* [ ] Strengthen DSA
+* [ ] Learn Docker
+* [ ] Build CI/CD Pipelines
+* [ ] Learn System Design
+* [ ] Build more production-ready applications
+* [ ] Contribute to Open Source
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=GoundPrincek&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn:https://www.linkedin.com/in/%20Goundprincek
-* 🐙 GitHub:https://github.com/GoundPrincek
-* 📧 Email:princestudy.7498@gmail.com
-  
+<p>
+
+<a href="https://github.com/GoundPrincek">
+<img src="https://img.shields.io/badge/GitHub-GoundPrincek-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/goundprincek/">
+<img src="https://img.shields.io/badge/LinkedIn-Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### Building real projects. Learning continuously. Growing every day.
+
+</p>
+
+<p align="center">
+⭐ If you find my projects useful, consider giving them a star.
+</p>
