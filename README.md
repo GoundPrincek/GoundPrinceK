@@ -171,13 +171,13 @@ Currently, my main focus is **DSA with Java alongside Full-Stack Development**, 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GoundPrincek&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="Prince Gound's GitHub Stats"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
  height="180"
  alt="Prince Gound's Top Languages"
 />
@@ -193,14 +193,4 @@ Currently, my main focus is **DSA with Java alongside Full-Stack Development**, 
     src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Prince Gound's GitHub Streak"
   />
-</p>
-
----
-
-<p align="center">
-  <b>Building real projects. Solving problems. Learning continuously.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find something useful in my repositories, consider giving them a star.
 </p>
