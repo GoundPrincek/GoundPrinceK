@@ -187,8 +187,10 @@ Currently, my main focus is **DSA with Java alongside Full-Stack Development**, 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="Prince Gound's GitHub Streak"
-  />
+  <a href="https://github.com/GoundPrincek">
+    <img
+      src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true&border_radius=10&mode=daily"
+      alt="Prince Gound's GitHub Streak"
+    />
+  </a>
 </p>
