@@ -1,36 +1,37 @@
-<h1 align="center">Hi, I'm Prince Gound </h1>
+<h1 align="center">Hi, I'm Prince Gound 👋</h1>
 
 <h3 align="center">
-  Full-Stack Developer • MERN Stack • JavaScript • Java
+Full-Stack Developer • MERN Stack • JavaScript • Java
 </h3>
 
 <p align="center">
-  Building real-world applications, solving problems, and growing as a Software Engineer.
+Building real-world applications, exploring backend systems, and growing as a Software Engineer.
 </p>
 
 <p align="center">
-  <a href="https://github.com/GoundPrincek">
-    <img src="https://img.shields.io/badge/GitHub-GoundPrincek-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/goundprincek/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://github.com/GoundPrincek">
+<img src="https://img.shields.io/badge/GitHub-GoundPrincek-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/goundprincek/">
+<img src="https://img.shields.io/badge/LinkedIn-Prince%20Gound-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building practical, real-world applications and continuously improving my software engineering skills.
+I'm a **Full-Stack Developer** focused on building practical applications and developing strong software engineering fundamentals.
 
-I enjoy working across the stack — from designing user interfaces and REST APIs to working with databases, authentication, and application architecture.
+I enjoy working across the stack — from building responsive interfaces and REST APIs to designing databases, authentication systems, backend architecture, and developer workflows.
 
-* Full-Stack Developer focused on the **MERN Stack**
-* Building real-world projects and hackathon solutions
-* Currently strengthening **DSA with Java**
-* Interested in **Backend Development, APIs, Security & Scalable Systems**
-* Learning **Docker, CI/CD & System Design**
-* Goal: Become a strong **Software Engineer**
+- 💻 Focused on **Full-Stack Development and the MERN Stack**
+- 🚀 Building real-world applications and project-based solutions
+- 🧠 Strengthening **Data Structures & Algorithms with Java**
+- ⚙️ Interested in **Backend Development, APIs, Security & Scalable Systems**
+- 🐳 Exploring **Docker, CI/CD, DevOps & System Design**
+- 🔧 Working on projects involving **distributed systems, offline communication and AI/ML**
+- 🎯 Long-term goal: become a strong and versatile **Software Engineer**
 
 ---
 
@@ -39,31 +40,31 @@ I enjoy working across the stack — from designing user interfaces and REST API
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & DevOps
+### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,jenkins" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman" />
 </p>
 
 ---
@@ -74,62 +75,115 @@ I enjoy working across the stack — from designing user interfaces and REST API
 
 **Personal Finance & Productivity Platform**
 
-TrackIt combines personal finance management and productivity tools into one full-stack application.
+TrackIt is a full-stack MERN platform that combines **personal finance management and productivity** into one workspace.
 
-**Features**
+#### Highlights
 
-* Expense tracking
-* Income & salary management
-* Budgeting
-* Financial goals
-* Task management
-* Notifications
-* Authentication & authorization
-* REST APIs
-* MongoDB data management
+- Salary and income planning
+- Expense tracking and category analysis
+- Smart budgeting
+- Financial goals and progress tracking
+- Todo and daily productivity management
+- Smart alerts and reminders
+- Finance and productivity analytics
+- Authentication and authorization
+- REST API architecture
+- MongoDB data management
+- Responsive modern interface
 
-**Tech Stack**
+**Tech:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT`
 
-`React` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT`
-
-🔗 **[View Project](https://github.com/GoundPrincek/Track_It)**
+🔗 **Repository:** https://github.com/GoundPrincek/Track_It  
+🌐 **Live Demo:** https://track-it-rho-three.vercel.app/
 
 ---
 
 ### 🆘 SOS Setu
 
-**Offline Disaster Communication Network**
+**Offline-First Emergency Communication Platform**
 
-An emergency communication concept designed to help exchange critical information when traditional internet connectivity is unavailable.
+SOS Setu explores how emergency communication can continue when traditional internet or mobile networks become unavailable.
 
-**Key Concepts**
+The platform focuses on **offline-first communication, local data storage, device-to-device message relay, and synchronization** when connectivity returns.
 
-* Bluetooth communication
-* Wi-Fi Direct
-* Offline messaging
-* Peer-to-peer communication
-* Emergency message prioritization
-* AI-assisted message prioritization
+#### Highlights
 
-**Focus**
+- Offline-first emergency communication
+- Local message storage
+- Device-to-device communication
+- Nearby message relay
+- Backend synchronization
+- Emergency message prioritization
+- Modular backend architecture
+- Dashboard and mobile-oriented components
+- Testing and CI/CD workflows
 
-`Networking` · `Distributed Systems` · `Emergency Communication` · `AI`
+**Focus:** `Offline Systems` · `Networking` · `Distributed Systems` · `Emergency Communication`
+
+🔗 **Repository:** https://github.com/GoundPrincek/SOS-Setu
 
 ---
 
 ### 🎭 DrishyaManch
 
-**Full-Stack Web Application**
+**Video-Sharing & Content Platform**
 
-A full-stack application developed to strengthen practical experience in frontend development, backend APIs, database integration, and application architecture.
+DrishyaManch is a full-stack video-sharing platform designed around creators, viewers, and community interaction.
 
-**Tech Stack**
+The project focuses strongly on **backend architecture and REST API development**, with a modular foundation for authentication, content management, channels, interactions, and future recommendation capabilities.
 
-`React` · `Node.js` · `Express.js` · `MongoDB`
+#### Highlights
+
+- Creator and viewer workflows
+- Video and content management
+- Channel architecture
+- REST APIs
+- Authentication and authorization
+- Database modeling
+- Community interaction concepts
+- Recommendation-system foundation
+
+**Tech:** `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT`
+
+🔗 **Repository:** https://github.com/GoundPrincek/DrishyaManch
 
 ---
 
-##  Currently Learning
+### 🌪️ VayuDrishti
+
+**AI/ML-Powered Tropical Cyclone Monitoring & Prediction Platform**
+
+VayuDrishti is an AI/ML-focused project developed for **Smart India Hackathon 2026**, exploring data-driven monitoring and prediction of tropical cyclones.
+
+The project combines weather and satellite-oriented data with machine learning concepts to support cyclone monitoring and decision-making.
+
+**Focus:** `AI/ML` · `Weather Data` · `Prediction` · `Disaster Management`
+
+🔗 **Repository:** https://github.com/GoundPrincek/VayuDrishti-
+
+---
+
+## 📚 Other Work
+
+Alongside my featured projects, I continuously work on smaller experiments, academic projects, problem-solving exercises, and technology explorations.
+
+My GitHub currently includes projects covering:
+
+- Full-Stack Web Development
+- Backend Development
+- JavaScript
+- Java & DSA
+- AI/ML
+- Embedded Systems
+- Networking
+- DevOps
+- Academic & Hackathon Projects
+
+---
+
+## 🧠 Currently Learning
+
+My current learning path is focused on becoming stronger across both **software development and engineering fundamentals**.
 
 ```text
 Java + DSA
@@ -138,47 +192,65 @@ Advanced JavaScript
     ↓
 TypeScript
     ↓
-Backend Development
+Backend Architecture
     ↓
 Docker & CI/CD
     ↓
+DevOps
+    ↓
 System Design
+    ↓
+Scalable & Production-Ready Systems
 ```
 
-Currently, my main focus is **DSA with Java alongside Full-Stack Development**, while gradually improving my knowledge of backend architecture, DevOps, and system design.
+### Current Priorities
+
+- Data Structures & Algorithms with Java
+- Advanced JavaScript
+- TypeScript
+- Backend development
+- REST API design
+- Docker & containerization
+- CI/CD
+- System Design
+- Security fundamentals
+- Scalable application architecture
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Focus
 
-* [x] JavaScript Fundamentals
-* [x] React
-* [x] Node.js & Express.js
-* [x] MongoDB
-* [x] Build Full-Stack Projects
-* [ ] Strengthen DSA with Java
-* [ ] Master TypeScript
-* [ ] Improve Backend Architecture
-* [ ] Learn Docker
-* [ ] Build CI/CD Pipelines
-* [ ] Learn System Design
-* [ ] Build Production-Ready Applications
-* [ ] Contribute to Open Source
+- [x] JavaScript Fundamentals
+- [x] React
+- [x] Node.js & Express.js
+- [x] MongoDB
+- [x] Build Full-Stack Projects
+- [x] Build MERN Applications
+- [ ] Strengthen DSA with Java
+- [ ] Master TypeScript
+- [ ] Improve Backend Architecture
+- [ ] Build Production-Ready Applications
+- [ ] Improve Docker & CI/CD
+- [ ] Learn System Design
+- [ ] Explore Cloud & DevOps
+- [ ] Contribute to Open Source
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180"
-    alt="Prince Gound's GitHub Stats"
-  /> <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180"
-    alt="Prince Gound's Top Languages"
-  />
+<img
+src="https://github-stats-extended.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+height="180"
+alt="Prince Gound's GitHub Stats"
+/>
+
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
+height="180"
+alt="Prince Gound's Top Languages"
+/>
 </p>
 
 ---
@@ -186,10 +258,24 @@ Currently, my main focus is **DSA with Java alongside Full-Stack Development**, 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/GoundPrincek">
-    <img
-      src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true&border_radius=10&mode=daily"
-      alt="Prince Gound's GitHub Streak"
-    />
-  </a>
+<a href="https://github.com/GoundPrincek">
+<img
+src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true&border_radius=10&mode=daily"
+alt="Prince Gound's GitHub Streak"
+/>
+</a>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://github.com/GoundPrincek">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/goundprincek/">LinkedIn</a>
+</p>
+
+<p align="center">
+<strong>Build. Learn. Improve. Repeat.</strong>
 </p>
