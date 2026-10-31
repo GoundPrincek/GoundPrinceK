@@ -239,8 +239,7 @@ Scalable & Production-Ready Systems
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img
+<p><img
 src="https://github-stats-extended.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
 height="180"
 alt="Prince Gound's GitHub Stats"
@@ -257,7 +256,9 @@ alt="Prince Gound's Top Languages"
 
 ## 🔥 GitHub Streak
 
-<p ><a href="https://github.com/GoundPrincek"><img
+<p align="center">
+    <a href="https://github.com/GoundPrincek">
+<img
 src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true&border_radius=10&mode=daily"
 alt="Prince Gound's GitHub Streak"
 />
