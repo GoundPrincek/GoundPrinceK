@@ -257,8 +257,7 @@ alt="Prince Gound's Top Languages"
 
 ## 🔥 GitHub Streak
 
-<p><a href="https://github.com/GoundPrincek">
-<img
+<p ><a href="https://github.com/GoundPrincek"><img
 src="https://streak-stats.demolab.com/?user=GoundPrincek&theme=tokyonight&hide_border=true&border_radius=10&mode=daily"
 alt="Prince Gound's GitHub Streak"
 />
