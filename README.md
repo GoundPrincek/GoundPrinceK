@@ -243,9 +243,7 @@ Scalable & Production-Ready Systems
 src="https://github-stats-extended.vercel.app/api?username=GoundPrincek&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
 height="180"
 alt="Prince Gound's GitHub Stats"
-/>
-
-<img
+/><img
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=GoundPrincek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
 height="180"
 alt="Prince Gound's Top Languages"
